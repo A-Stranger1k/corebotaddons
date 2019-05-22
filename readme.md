@@ -20,4 +20,4 @@ Fork the respatory, make all your changes to the forked version, and submit a pu
 There are only a few, but please follow them:
 1. Do not post addons or commands from Revive without their permission
 2. Do not post anything without the author's permission
-3. If you would like to add a addon or command, please use the issue page here instead of working and sending a pull request.
+3. If you would like to add a addon or command, please read and follow the above instructions.
